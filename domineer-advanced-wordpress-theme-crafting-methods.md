@@ -1,6 +1,6 @@
 # Domineer Advanced WordPress Theme Crafting Methods at My Place of Employment
 
-Let's explore a majestic subject. Something I habitually execute in my line of work. This subject refers to highly specialized techniques I leverage at Hybrid Web Agency, the place that signs my paychecks. Let's dissect procedures for developing more customizable, reusable, and robust themes.
+Let's explore a majestic subject. Something I habitually execute in my line of work. This subject refers to highly specialized techniques I leverage at [Hybrid Web Agency](https://hybridwebagency.com/), the place that signs my paychecks. Let's dissect procedures for developing more customizable, reusable, and robust themes.
 
 You will learn object-oriented programming using classes, optimize template architecture, capitalize on potent theme hooks, incorporate ajax functionality, and gracefully coordinate with plugins. Commanding these skills can assist in constructing professionally-caliber WordPress themes.
 
